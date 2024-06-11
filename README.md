@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pvhcnptit@gmail.com**
 
-- ⚡ Fun fact **I just enjoy my life :))**
+- ⚡ Fun fact **I am enjoying my life :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
