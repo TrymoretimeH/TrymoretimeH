@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang Pham Van</h1>
-<h3 align="center">A full stack developer from Viet Nam</h3>
+<h3 align="center">A software developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trymoretimeh&label=Profile%20views&color=0e75b6&style=flat" alt="trymoretimeh" /> </p>
 
-- 🌱 I’m currently learning **make Kotlin app and Angular web**
+- 🌱 I’m currently learning **about Artifact Intelligent with Python**
 
 - 💬 Ask me about **Java, React, Next, Node**
 
