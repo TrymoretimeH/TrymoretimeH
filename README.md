@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trymoretimeh&label=Profile%20views&color=0e75b6&style=flat" alt="trymoretimeh" /> </p>
 
-- 🌱 I’m currently learning **about Artifact Intelligent with Python**
+- 🌱 I’m currently doing **my graduation project for my university**
 
 - 💬 Ask me about **Java, React, Next, Node**
 
