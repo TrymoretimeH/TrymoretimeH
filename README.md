@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trymoretimeh&label=Profile%20views&color=0e75b6&style=flat" alt="trymoretimeh" /> </p>
 
-- 🌱 I’m currently doing **my graduation project for my university**
+- 🌱 I’m working at PANCAKE company
 
-- 💬 Ask me about **Java, React, Next, Node**
+- 💬 Ask me about **Javascript, React, Next, Elixir, Node**
 
 - 📫 How to reach me **pvhcnptit@gmail.com**
 
